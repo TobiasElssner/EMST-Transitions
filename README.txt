@@ -26,11 +26,11 @@ Run:
 
 
 Basic Functions:
-- Add points to the coordinate system to build an MST
+- Add points to the coordinate system to build an EMST
 
-- Compute regions in which all points, when added to the existing MST,
+- Compute regions in which all points, when added to the existing EMST,
   share the same topology
 
-- Draw a line through the regions and view all MSTs along the line
+- Draw a line through the regions and view all EMSTs along the line
 
-- Display regions for which the topology are falsely calculated
+- Display regions for which the topology is falsely calculated
