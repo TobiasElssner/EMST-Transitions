@@ -1,5 +1,5 @@
 Implementation of the 2-D Case of Monma & Suri's "Transitions in Geometric Minimum Spanning Trees" as part of my Bachelor's Thesis.
-The Algorithm, however, seems to produce Errors. See "Bsc.pdf" and run the GUI for more details.
+Their Algorithm, however, seems to produce Errors. See "Bsc.pdf" and run the GUI for more details.
 
 
 Python Requirements:
